@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 cd $HOME/TshAkE
-install() {
+install(https://github.com/TshAkEAb/TshAkE && cd TshAkE && chmod +x install.sh && ./install.sh) {
 rm -rf $HOME/.telegram-cli
 sudo chmod +x tg
 chmod +x Tshake
