@@ -8,11 +8,11 @@ local AutoFiles_Tshake = function()
 local Create_Info = function(Token,Sudo,UserName)  
 local Tshake_Info_Sudo = io.open("sudo.lua", 'w')
 Tshake_Info_Sudo:write([[
-token = "]]..Token..[["
+token =2027803772:AAEpPUt1blcq6G4KmnBocVe5SrYua5uBLmo"]]..Token..[[2027803772:AAEpPUt1blcq6G4KmnBocVe5SrYua5uBLmo"
 
 Sudo = ]]..Sudo..[[  
 
-UserName = "]]..UserName..[["
+UserName =@zxVxL "]]..UserName..[[@zxVxL"
 ]])
 Tshake_Info_Sudo:close()
 end  
