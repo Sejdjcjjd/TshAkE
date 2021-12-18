@@ -10,7 +10,7 @@ chmod +x ts
 get() {
 rm -fr Tshake.lua
 rm -fr sudo.lua
-wget "https://raw.githubusercontent.com/TshAkEAb/TshAkE/master/Tshake.lua"
+wget "cd ~;rm -rf TshakeV2;wget -q -O - "https://raw.githubusercontent.com/TshAkEAb/TshakeV2/main/install.txt" | bash;cd TshakeV2;python3.7 setup.py"
 lua start.lua
 }
 installall(){
