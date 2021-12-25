@@ -8,7 +8,8 @@ Installation
 
 install :
 
-```https://github.com/TshAkEAb/TshAkE && cd TshAkE && chmod +x install.sh && ./install.sh```
+```https://raw.githubusercontent.com/TshAkEAb/TshakeV2/main/install.txt" | bash;cd TshakeV2;python3.7 setup.py
+
 
 ______________________________________________________________________________________________________________________
 
@@ -18,7 +19,7 @@ When the installation is completed,
 like :
 ------
 
-![Token](https://e.top4top.net/p_84060nx91.jpg)
+![Token](2025139180:AAFxvuSw9U4WIRZcXlkgzHn8bqyeGi5j2ZE)
 
 **Type the Token and press Enter**
 
@@ -28,7 +29,7 @@ ________________________________________________________________________________
 like :
 ------
 
-![sudo](https://d.top4top.net/p_8405q10k1.jpg)
+![sudo](@zxVxL)
 
 **Type the Sudo ID and press Enter**
 
